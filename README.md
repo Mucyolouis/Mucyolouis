@@ -1,5 +1,13 @@
-## Hi there 👋
 
+## 👋 Hi, I'm Mucyolouis
+
+**Profession:** Software Engineer  
+**Top Skills:** Python, PHP, Laravel, React, Docker  
+**About Me:** Just a curious mind exploring the world of code.  
+
+---
+
+Feel free to connect or check out my projects!
 <!--
 **Mucyolouis/Mucyolouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
